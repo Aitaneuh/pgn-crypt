@@ -1,0 +1,12 @@
+1. e4 e5 2. Bc4 d6 3. Qf3 Qd7 4. a3 b5 5. Bb3 c5 6. c4 Qg4 7. Qe3 Qxg2 8. Qf3
+Qxf3 9. Nxf3 Bg4 10. Nh4 Be7 11. Ng2 Nc6 12. h3 Nd4 13. Bd1 Bxd1 14. Kxd1 Nf6
+15. Ra2 Nxe4 16. Rf1 bxc4 17. d3 cxd3 18. Be3 Nf3 19. Ne1 Nh2 20. Rh1 Nxf2+ 21.
+Bxf2 Ng4 22. Bg3 Ne3+ 23. Kd2 Bg5 24. Nxd3 Nf5+ 25. Kd1 Nxg3 26. Rg1 c4 27. Ne1
+Ne4 28. Nf3 f6 29. Nc3 O-O 30. Nxe4 d5 31. Nexg5 fxg5 32. Rxg5 e4 33. Ne5 Rf1+
+34. Ke2 Raf8 35. Rg2 d4 36. Nxc4 d3+ 37. Ke3 Re1+ 38. Kd4 Rd8+ 39. Ke5 Rd5+ 40.
+Kxd5 g6 41. Rf2 Kg7 42. Nd2 e3 43. Ne4 exf2 44. Nxf2 d2 45. Kd4 d1=Q+ 46. Nxd1
+Rxd1+ 47. Ke4 h5 48. Ke3 Rh1 49. Kf4 a5 50. a4 Rxh3 51. Ra3 Rxa3 52. bxa3 Kh6
+53. Kg3 g5 54. Kh3 h4 55. Kg4 Kg6 56. Kh3 Kf5 57. Kh2 g4 58. Kg2 g3 59. Kh3 Kg5
+60. Kg2 Kg4 61. Kg1 h3 62. Kf1 h2 63. Ke2 Kh3 64. Kd3 h1=Q 65. Kd4 Qa1+ 66. Kd5
+Qxa3 67. Kc6 g2 68. Kd5 g1=Q 69. Ke4 Qxa4+ 70. Kd5 Qg5+ 71. Kd6 Qaf4+ 72. Kd7
+Qff6 73. Kc7 Qgg7+ 74. Kb8 Qff8#
